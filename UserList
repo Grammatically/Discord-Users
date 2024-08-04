@@ -9,6 +9,7 @@ ServerBoosterIds = { --Add server booster Roblox Ids here (with a comma after)
 }
 
 while wait(1) do
-print("hi")
+	print("hi")
+end
 
 return ServerBoosterIds
