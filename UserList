@@ -1,15 +1,9 @@
-ServerBoosterIds = { --Add server booster Roblox Ids here (with a comma after)
-	903605878, -- Thegoodboy2445
-	183893438, -- Not_Hipyxl
-	1753590786, -- Ard_xn
-	553167865, -- brortilkikii
-	1946459128, -- Breaxch
-	2722340777, -- Dizzyuserincharge
-	2356732375, -- jsemtvujCZE
+ServerBoosterIds = {
+	903605878,
+	183893438,
+	1753590786,
+	553167865,
+	1946459128,
+	2722340777,
+	2356732375,
 }
-
-while wait(1) do
-	print("hi")
-end
-
-return ServerBoosterIds
