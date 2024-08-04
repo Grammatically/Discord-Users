@@ -1,1 +1,9 @@
-print("Hello World")
+ServerBoosterIds = { --Add server booster Roblox Ids here (with a comma after)
+	903605878, -- Thegoodboy2445
+	183893438, -- Not_Hipyxl
+	1753590786, -- Ard_xn
+	553167865, -- brortilkikii
+	1946459128, -- Breaxch
+	2722340777, -- Dizzyuserincharge
+	2356732375, -- jsemtvujCZE
+}
